@@ -10,7 +10,7 @@ Another reason for implementing from scratch was to learn Python. I was new to P
 
 One of the challenge I faced a lot was visualization using matplotlib. Since I was new to matplotlib, creating visualizations like those in assignment's PDF took a lot of time. But it was all worth it, as writing code for visualization helped me not only in learning matplotlib for plotting but also gave me more understanding of these algorithms!
 
-#### Libraries
+## Libraries
 ---
 This is a list of libraries I used during assignments
 * numpy
@@ -19,7 +19,7 @@ This is a list of libraries I used during assignments
 * scipy (only for loading the dataset from .mat files and using imread and imsave for kmeans assignment)
 * scikit-learn (**Only in SVM**)
 
-#### Resources
+## Resources
 ---
 Some resources (apart from libary docs) that helped me:
 * Excellent matplotlib tutorials - https://www.youtube.com/playlist?list=PLNmACol6lYY5aGQtxghQTq0bHXYoIMORy
